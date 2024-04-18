@@ -1,0 +1,7 @@
+HOW TO INSTALL OPENCV
+
+1. 
+Install python : https://www.python.org/downloads/
+Install Opencv using pip : pip install opencv-python
+
+2. For more reference : https://opencv.org/
